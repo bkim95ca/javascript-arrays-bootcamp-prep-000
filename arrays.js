@@ -1,3 +1,5 @@
 var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"]
-var addElementToBeginnigofArray = [1,2,3]
+var addElementToBeginnigofArray = [1,2,3] {
+  addElementToBeginnigofArray([1],"foo")
+}
 var destructivelyAddElementToBeginningOfArray = chocolateBars.unshift("hersheys")
