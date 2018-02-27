@@ -1,3 +1,3 @@
 var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"]
-var addElementToBeginningOfArray
+var addElementToBeginningOfArray = bew Array()
 var destructivelyAddElementToBeginningOfArray = [...chocolateBars, "hersheys"]
