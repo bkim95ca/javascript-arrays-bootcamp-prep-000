@@ -1,1 +1,1 @@
-console.log(array)
+var chocolateBars = ['snickers', 'hundred grand', 'kitkat', 'skittles']
